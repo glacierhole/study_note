@@ -1,0 +1,25 @@
+1.欧氏距离(Euclidean Distance)
+2.曼哈顿距离(Manhattan Distance)
+3.切比雪夫距离(Chebyshev Distance)
+4.闵可夫斯基距离(Minkowski Distance)
+5.标准化欧氏距离(Standardized Euclidean Distance)
+6.马氏距离(Mahalanobis Distance)
+7.余弦距离(Cosine Distance)
+8.皮尔逊相关系数(Pearson Correlation)
+9.汉明距离(Hamming Distance)
+10.杰卡德相似系数(Jaccard Similarity Coefficient)
+11.Ochiai Coefficient
+12.布雷柯蒂斯距离(Bray Curtis Distance)
+13.Hausdorff距离
+14.Levenshtein Distance(Edit Distance)
+15.堪培拉距离(Canberra Distance)
+16.卡方检验
+17.相对熵
+18.交叉熵
+19.JS散度
+20.Hellinger distance
+21.F散度
+22.MMD距离(Maximum mean discrepancy)
+23.Wasserstein distance
+24.点对互信息 PMI(Pointwise Mutual Information)
+25.巴氏距离(Bhattacharyya Distance)
